@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_BASE = "http://127.0.0.1:8000"
+API_BASE =  "https://movie-recommender-1-qz4k.onrender.com" or "http://127.0.0.1:8000"
 
 st.set_page_config(
     page_title="Movie Recommender",
