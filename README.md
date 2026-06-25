@@ -5,6 +5,9 @@ A full-stack movie recommendation web application built using **TF-IDF Vectoriza
 The system recommends similar movies based on textual metadata such as genres, keywords, cast, and overview using a content-based recommendation approach.
 
 ---
+## 🌐 Live Demo
+
+🚀 Demo: https://movie-recommender-system-tfidf.streamlit.app/
 
 ## 🚀 Features
 
